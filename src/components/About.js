@@ -44,6 +44,7 @@ const About = ({title, dark, id}) => {
   )
 }
 
+
 const useStyles = makeStyles((theme)=>({
   section :{
       minHeight: "100vh",
